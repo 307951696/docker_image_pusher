@@ -25,10 +25,10 @@ jobs:
         df -hT
         echo "=============================================================================="
 
-        echo "${{ secrets.ALIYUN_REGISTRY }}"
-        echo "${{ secrets.ALIYUN_NAME_SPACE }}"
-        echo "${{ secrets.ALIYUN_REGISTRY_USER }}"
-        echo "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
+        echo "$ALIYUN_REGISTRY"
+        echo "$ALIYUN_NAME_SPACE"
+        echo "$ALIYUN_REGISTRY_USER"
+        echo "$ALIYUN_REGISTRY_PASSWORD"
 
     # 增加可用磁盘空间
     - name: Maximize build space
