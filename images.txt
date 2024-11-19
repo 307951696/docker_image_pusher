@@ -1,6 +1,6 @@
 #elasticsearch:7.17.9
-#openjdk-font:8u332-jdk-slim
-openjdk:8u332-jdk-slim
+openjdk-font:8u332-jdk-slim
+#openjdk:8u332-jdk-slim
 #mysql:8.0.26
 #nginx
 #支持私库
