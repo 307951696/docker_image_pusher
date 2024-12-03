@@ -8,5 +8,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-kafka:2.13-2.8.1
-zookeeper:3.8
+wurstmeister/kafka
+wurstmeister/zookeeper
