@@ -1,5 +1,5 @@
 #elasticsearch:7.17.9
-openjdk-font:8u332-jdk-slim
+#openjdk-font:8u332-jdk-slim
 #openjdk:8u332-jdk-slim
 #mysql:8.0.26
 #nginx
@@ -8,3 +8,5 @@ openjdk-font:8u332-jdk-slim
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+kafka:2.13-2.8.1
+zookeeper:3.8
