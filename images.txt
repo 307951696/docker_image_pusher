@@ -10,4 +10,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #wurstmeister/kafka
 #wurstmeister/zookeeper
-tensorflow/tensorflow
+#tensorflow/tensorflow
+ubuntu
