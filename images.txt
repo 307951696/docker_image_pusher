@@ -12,4 +12,4 @@
 #wurstmeister/zookeeper
 #tensorflow/tensorflow
 #ubuntu
-centos
+docker.io/centos:stream
