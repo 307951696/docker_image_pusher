@@ -11,4 +11,5 @@
 #wurstmeister/kafka
 #wurstmeister/zookeeper
 #tensorflow/tensorflow
-ubuntu
+#ubuntu
+centos
