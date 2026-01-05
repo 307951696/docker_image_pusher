@@ -13,4 +13,5 @@
 #tensorflow/tensorflow
 #ubuntu
 #centos:7
-influxdata/influxdb3-ui
+#influxdata/influxdb3-ui
+influxdb:3-core
