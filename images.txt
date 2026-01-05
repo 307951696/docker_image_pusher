@@ -12,4 +12,5 @@
 #wurstmeister/zookeeper
 #tensorflow/tensorflow
 #ubuntu
-centos:7
+#centos:7
+influxdata/influxdb3-ui
